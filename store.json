@@ -1,5 +1,6 @@
 {
   "images": {
-    "this-registry-has-dashes.somecompany.io/rv-python-runtime": "1.0.1"
+    "this-registry-has-dashes.somecompany.io/rv-python-runtime": "1.0.1",
+    "this-registry-has-dashes.some-company.with-dashes.io/some-path/with-more-dashes/rv-python-3.7-runtime": "1.0.1"
   }
 }
